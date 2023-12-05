@@ -100,6 +100,7 @@ img{
     border-color:white;
     border-radius: 1rem;
     background-image: linear-gradient(to right,#095360, #093b54);
+    color: white;
     width: 18rem;
     text-decoration:none;
     font-size:1.5rem;
