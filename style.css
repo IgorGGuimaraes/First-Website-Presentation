@@ -155,6 +155,10 @@ a:visited{
         
     }
 
+    .number{
+        text-shadow:none;
+    }
+
     img {
         align-content:center; 
         width:7rem;
