@@ -150,13 +150,9 @@ a:visited{
     }
 
     .text {
-        font-size:1.25rem;-webkit-text-stroke-width: 0.1px;
+        font-size:1.25rem;
         text-shadow:0px 0px 5px #0c0c14;
         
-    }
-
-    .number{
-        text-shadow:none;
     }
 
     img {
